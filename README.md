@@ -5,4 +5,4 @@ The code is written in Google Colabrotary and I used Google Drive as file locati
 
 #### Confusing classes when the image is Original/Reversed.
 
-[!confusing classes](https://github.com/fzehracetin/image-orientation-detection-using-CNN-and-CIFAR-10-dataset/blob/master/outputs.png)
+![confusing classes](https://github.com/fzehracetin/image-orientation-detection-using-CNN-and-CIFAR-10-dataset/blob/master/outputs.png)
